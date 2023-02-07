@@ -1,6 +1,7 @@
 transformers
 gradio
 tqdm
+torch>=1.11.0
 clean-text
 accelerate
 optimum[onnxruntime]
