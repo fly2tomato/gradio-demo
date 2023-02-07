@@ -6,7 +6,6 @@ import gradio as gr
 from tqdm.auto import tqdm
 from transformers import pipeline
 
-
 checker_model_name = "textattack/roberta-base-CoLA"
 corrector_model_name = "pszemraj/flan-t5-large-grammar-synthesis"
 
